@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Lynchburg, Virginia. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Lynchburg, Virginia, US",
+  "export_job_id": "844adaf9-ed44-454f-9ca0-c2a53af3d5c0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 740318,
+  "location_name": "Lynchburg",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lynchburg-virginia-us-sample-740318",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/740318/beamstation_740318_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 9.88,
+  "sample_records": 50,
+  "sample_sha256": "b2dd35d1af23de3230d2a9cc1998d659f59ecd925934f5123e93801de6c57934",
+  "sample_size_bytes": 183385,
+  "total_records": 506,
+  "updated_at": "2026-04-09T14:15:22.088799+00:00"
+}
