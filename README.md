@@ -1,6 +1,6 @@
 # All Restaurants in Lynchburg, Virginia, US
 
-> Free BeamStation sample export with 41 rows and masked direct-contact fields.
+> Free BeamStation sample export with 50 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `740318` |
 | Location | Lynchburg |
 | Category | Restaurants |
-| Full dataset size | 413 records |
-| Free sample size | 41 records (9.93%) |
-| Last export | 2026-04-23T13:26:04.564171+00:00 |
+| Full dataset size | 507 records |
+| Free sample size | 50 records (9.86%) |
+| Last export | 2026-04-30T13:38:37.943341+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lynchburg-virginia-us-sample-740318/releases/download/sample-latest/beamstation_740318_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
