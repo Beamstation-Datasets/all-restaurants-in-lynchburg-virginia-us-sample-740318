@@ -1,12 +1,12 @@
 {
-  "export_job_id": "951fafec-a36f-4086-b20e-5aa1ce3a9502",
+  "export_job_id": "de13df14-712d-4982-8748-6ad044b9a0c0",
   "id_short": 740318,
-  "published_at": "2026-04-23T19:37:59Z",
+  "published_at": "2026-04-30T19:32:42Z",
   "repo_name": "all-restaurants-in-lynchburg-virginia-us-sample-740318",
   "sample_asset_name": "beamstation_740318_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/740318/beamstation_740318_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 41,
-  "sample_sha256": "82650fa7f5f9f8f09f387c5e27c124505cbec3c2a08d4e8a75240509034a5e6d",
-  "sample_size_bytes": 132315,
-  "total_records": 413
+  "sample_records": 50,
+  "sample_sha256": "e5cfc89bd9fad3e7e61ccea95a2d1dbc2d9e88dee76e34594befb18b0f7a5475",
+  "sample_size_bytes": 174776,
+  "total_records": 507
 }
